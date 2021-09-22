@@ -43,7 +43,7 @@ class App extends StatelessWidget {
                 )),
             Card(
               color: Colors.white,
-              margin: EdgeInsets.symmetric(vertical: 10, horizontal: 25),
+              margin: EdgeInsets.symmetric(vertical: 10, horizontal: 20),
               child: ListTile(
                 leading: Icon(Icons.phone, color: Colors.teal),
                 title: Text(
